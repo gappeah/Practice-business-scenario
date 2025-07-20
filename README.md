@@ -21,8 +21,8 @@ This repository contains a Jupyter notebook, raw data, and all supporting files 
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/your-org/spotify-top2000.git
-   cd spotify-top2000
+   git clone https://github.com/gappeah/Practice-business-scenario.git
+   cd Practice-business-scenario
    ```
 2. **Create & activate a virtual environment** (recommended)
 
